@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🔭 Hoje trabalho com Bootstrap 
+- 🔭 Proprietário da Betta Desenvolvimento Web e Marketing Digital
 - 🌱 Estudando PHP e Angular
 <div align="center">
   <a href="https://github.com/gabriel-sementino">
