@@ -1,7 +1,7 @@
 ### Olá!
 
 - 🔭 Betta System Desenvolvimento Web e Marketing Digital
-- 🌱 Estudando PHP e Angular
+- 🌱 Estudando React e Angular
 <div align="center">
   <a href="https://github.com/gabriel-sementino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-sementino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
