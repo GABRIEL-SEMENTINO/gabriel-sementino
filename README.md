@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🔭 Betta Desenvolvimento Web e Marketing Digital
+- 🔭 Betta System Desenvolvimento Web e Marketing Digital
 - 🌱 Estudando PHP e Angular
 <div align="center">
   <a href="https://github.com/gabriel-sementino">
